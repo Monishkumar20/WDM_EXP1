@@ -55,7 +55,7 @@ rainy,75.0,80.0,false,yes
 ### OUTPUT:
 # Emoployee data
 
-<img width="1917" height="1140" alt="image" src="https://github.com/user-attachments/assets/f3185c20-24f2-4a3b-a229-33785cc5e195" />
+
 
 # Weather data
 <img width="1917" height="1140" alt="image" src="https://github.com/user-attachments/assets/f6704fab-e25f-4a34-ad96-0b0de54e1c98" />
