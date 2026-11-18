@@ -1,5 +1,5 @@
 ### EX1 Creation of Employee, Weather dataset in WEKA Data Mining and Analysis Tool and perform Preprocessing
-### DATE: 03-11-2026
+### DATE: 17-11-2026
 ### AIM: 
   To Create Employee, Weather dataset in WEKA Data Mining and Analysis Tool and perform preprocessing
 ### PROCEDURE: 
@@ -11,14 +11,14 @@
 Employee Data
 ---------------
 @relation employee
-@attribute name {x,y,z,a,b}
+@attribute name {monish,y,z,a,b}
 @attribute id numeric
 @attribute salary {low,medium,high}
 @attribute exp numeric
 @attribute gender {male,female}
 @attribute phone numeric
 @data
-x,101,low,2,male,250311
+monish,101,low,2,male,250311
 y,102,high,3,female,251665
 z,103,medium,1,male,240238
 a,104,low,5,female,200200
@@ -53,7 +53,8 @@ rainy,75.0,80.0,false,yes
 8) Click on edit button which shows employee table on weka.
 
 ### OUTPUT:
-# Emoployee data
+# Employee data
+<img width="1915" height="1140" alt="image" src="https://github.com/user-attachments/assets/f6cef563-60da-4f61-a6d5-90c369a94457" />
 
 
 
